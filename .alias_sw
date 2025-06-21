@@ -1,0 +1,16 @@
+alias my_tree="treeignore_script.sh"
+alias braveopen="~/bin/brave_open.sh"
+alias braverefresh="nohup ~/bin/refresh_session.sh &"
+alias sss="~/bin/snapshot_session.sh"
+alias restorechat="~/bin/restore_session.sh"
+alias restorechat="~/bin/restore_brave_session.sh"
+alias brave-debug='curl http://172.27.64.1:9222/json'
+alias addx='chmod +x'
+alias src='source ~/.bashrc'
+
+# Enable color support for ls and common variants
+alias ls='ls --color=auto'
+alias ll='ls -lh --color=auto'
+alias la='ls -lah --color=auto'
+
+
